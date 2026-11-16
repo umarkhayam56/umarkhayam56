@@ -1,125 +1,142 @@
 
-<h1 align="center">Hi 👋, I'm Umar Khayam</h1>
+# 👋 Hi, I'm Umar Khayam
 
-<h3 align="center">
-  Software Engineer | Video Editor | Web Developer | App Developer
-</h3>
+<h3 align="center"> Software Engineer | Video Editor | Web Developer | App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;Mobile+App+Development;Video+Editing;Always+Learning+New+Things&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B7FF00&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Web+Development+%7C+App+Development;Creative+Video+Editing;Exploring+AI+%26+Modern+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-B7FF00?style=for-the-badge&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-white?style=for-the-badge&labelColor=101010" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-B7FF00?style=for-the-badge&labelColor=101010" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Software Engineer
-- 🔭 Currently working on **SWAVIA Website**.
-- 🌱 Currently learning **Content Creation**.
+I'm Umar Khayam, a Software Engineering student passionate about building websites, developing applications, editing videos, and exploring modern technologies.
+
+- 🎓 Software Engineer.
 - 💻 Interested in Web Development and Mobile App Development.
-- 🎬 Passionate about Video Editing and Creative Content.
-- 🤖 Interested in AI and modern technologies.
-- 🌍 Based in Islamabad, Pakistan.
-- 📫 Reach me at **umarstudio056@gmail.com**
+- 🎬 Learning and working on creative Video Editing.
+- 🤖 Exploring Artificial Intelligence and modern technologies.
+- 🌱 Always improving my programming and problem-solving skills.
+- 📍 Based in Islamabad, Pakistan.
+
+**My goal:** To become a skilled developer, build useful digital products, and keep growing through real-world projects.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technologies & Tools
 
-| Project | Description |
-|---|---|
-| **SWAVIA Website** | E-commerce website project |
-| **AI Health Advisor** | AI-based health advisory project |
-| **Personal Portfolio** | My personal portfolio website |
+### 💻 Programming & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,python,kotlin,cs,php" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,fastapi" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,photoshop" />
+</p>
+
+### 🎬 Video Editing
+
+- Adobe Premiere Pro
+- Adobe After Effects
+- CapCut
+- InShot
+
+---
+
+## 🌟 Featured Projects
+
+### 1. SWAVIA – E-commerce Website
+A website project focused on creating a clean shopping experience with product browsing, customer ordering, and administration features.
+
+**Technologies:** Web Development, JavaScript, Firebase.
+
+### 2. AI Health Advisor
+An AI-based project exploring health-related assistance through text and voice interaction, with technologies such as LLM, RAG, CNN, YOLO, Python, and FastAPI.
+
+### 3. Personal Portfolio Website
+My personal portfolio showcasing my development work, skills, projects, and creative video editing.
 
 🌐 **Portfolio:** [umarstudio.online](https://umarstudio.online/)
 
 ---
 
-### 🛠️ Languages and Tools
-
-**Programming Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,sql,kotlin,cs" />
-</p>
-
-**Web Development & Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,php,firebase,mongodb,mysql,git,github,vscode" />
-</p>
-
-**Mobile App Development & AI**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,flutter,opencv,tensorflow" />
-</p>
-
-**Video Editing & Creative Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai" />
-  <br/>
-  CapCut | InShot | Figma
-</p>
-
----
-
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=umarkhayam56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarkhayam56&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=umarkhayam56&show_icons=true&theme=transparent&title_color=B7FF00&icon_color=B7FF00&text_color=FFFFFF&border_color=303030&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarkhayam56&layout=compact&theme=transparent&title_color=B7FF00&text_color=FFFFFF&border_color=303030&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umarkhayam56&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=umarkhayam56&theme=dark&background=0D1117&border=303030&ring=B7FF00&fire=B7FF00&currStreakLabel=B7FF00" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarkhayam56&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarkhayam56&bg_color=0D1117&color=FFFFFF&line=B7FF00&point=B7FF00&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🎯 My Goals
+## 🎯 Current Goals
 
 - 🚀 Improve my Web Development skills.
-- 📱 Build more Mobile Applications.
-- 🎬 Improve my Video Editing skills.
-- 🤖 Explore AI and modern technologies.
-- 🌍 Contribute to Open Source projects.
-- 💡 Build useful real-world projects.
+- 📱 Build practical Mobile Applications.
+- 🤖 Explore AI and Machine Learning.
+- 🎬 Improve my Video Editing and storytelling.
+- 🌍 Work on real-world projects and collaborate with developers.
+- 📚 Keep learning new technologies.
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/umar-khayam-8b9196340">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/umar-khayam-8b9196340/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-B7FF00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=101010" />
   </a>
-  <a href="https://instagram.com/umar_khayam056">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  <a href="https://www.instagram.com/umar_khayam056/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-B7FF00?style=for-the-badge&logo=instagram&logoColor=black&labelColor=101010" />
+  </a>
+  <a href="https://umarstudio.online/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-B7FF00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=101010" />
   </a>
   <a href="mailto:umarstudio056@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/Email-Contact-B7FF00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=101010" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarkhayam56&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=umarkhayam56&label=PROFILE%20VIEWS&color=B7FF00&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="center">💻 Keep Learning | Keep Building | Keep Growing 🚀</h3>
+<h3 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
